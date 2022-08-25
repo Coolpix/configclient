@@ -1,1 +1,1 @@
-registry: { "src": "xxxx", "name": "yyyy"}
+registry: {name: 'test1-component', src: 'http://127.0.0.1:8081/elements/test1-component.js'}
