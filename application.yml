@@ -1,3 +1,1 @@
-properties:
-   hello: hola
-   bye: adios
+config: { "src": "xxxx", "name": "yyyy"}
