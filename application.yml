@@ -1,1 +1,3 @@
-registry: { "src": "xxxx", "name": "yyyy"}
+registry: { 
+    data:{"src": "xxxx", "name": "yyyy"}
+}
