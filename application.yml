@@ -1,2 +1,2 @@
-mfe1: {name: 'test1-component', src: 'http://127.0.0.1:8081/elements/test1-component.js'},
+mfe1: {name: 'test1-component', src: 'http://127.0.0.1:8081/elements/test1-component.js'}
 mfe2: {name: 'test1-component', src: 'http://127.0.0.1:8081/elements/test1-component.js'}
